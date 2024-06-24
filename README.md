@@ -1,7 +1,3 @@
-Claro! Aqui está um exemplo de um arquivo README para um curso de Git e GitHub:
-
----
-
 # Curso de Git e GitHub
 
 Bem-vindo ao Curso de Git e GitHub! Este curso foi projetado para ensinar as habilidades essenciais necessárias para usar o Git e o GitHub de forma eficaz. Ao final deste curso, você será capaz de gerenciar repositórios de código, colaborar com outros desenvolvedores e implementar controle de versão em seus projetos.
